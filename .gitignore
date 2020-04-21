@@ -1,0 +1,11 @@
+#IDE's folders
+.vscode
+
+#Dependencies
+node_modules
+
+#Sequelize generated files
+dump.rdb
+
+#NPM Lock
+package-lock.json
